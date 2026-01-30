@@ -3,7 +3,7 @@
 > **Zero-effort file organization for Claude Code**
 > Say "goodnight" and your project gets organized automatically.
 
-[![Made by Washin Village](https://img.shields.io/badge/Made%20by-Washin%20Village%20🐾-orange)](https://washinmura.jp)
+[![Made by Washin Village](https://img.shields.io/badge/Made%20by-Washin%20Village%20🐾-orange)](https://www.washinmura.jp)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blue)](https://claude.ai/code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -126,9 +126,13 @@ Auto-Tidy understands multiple languages:
 
 This skill is made by **Washin Village (和心村)** — a sanctuary for 28 cats and dogs in Japan's Boso Peninsula.
 
+**Come visit us!** 🏡 Play with cats & dogs, write code in paradise, live the slow life while coding.
+
+> "一邊生活、一邊寫程式的天堂" — A paradise for coding and living
+
 We build AI tools to help animals get seen by the world. Every star ⭐ helps us rescue more animals!
 
-🌐 [washinmura.jp](https://washinmura.jp)
+🌐 [www.washinmura.jp](https://www.washinmura.jp)
 
 ---
 
@@ -147,5 +151,5 @@ MIT License - Feel free to use, modify, and share!
 
 <p align="center">
   <b>Made with 🐾 by 28 cats & dogs from Japan</b><br>
-  <a href="https://washinmura.jp">Washin Village</a>
+  <a href="https://www.washinmura.jp">Washin Village</a>
 </p>
